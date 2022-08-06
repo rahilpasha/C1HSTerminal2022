@@ -1,3 +1,8 @@
+# Stonewall-Piemonte
+
+These are the algos we used in the 2022 High School Terminal competition for team Stonewall-Piemonte.
+CasefileV3 was used against the four bosses and Casefile V4 was used in the round robin competition.
+
 # Starter Algo
 
 ## File Overview
